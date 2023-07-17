@@ -1,0 +1,11 @@
+#include<stdio.h>
+/**
+ * main - Entry point
+ * Reture: Always 0 (Success)
+ */
+int main(void)
+{	
+        puts("\" programming is like building multilinguel puzzle");
+	return (0);
+}	
+
